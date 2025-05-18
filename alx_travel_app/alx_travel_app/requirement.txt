@@ -1,0 +1,16 @@
+# Core packages
+django>=4.0,<5.0
+djangorestframework>=3.14
+django-cors-headers>=4.0
+
+# Swagger Documentation
+drf-yasg>=1.21
+
+# Task Queue
+celery>=5.3
+
+# MySQL (if using it)
+mysqlclient>=2.2
+
+# Environment Variables
+python-decouple>=3.8
